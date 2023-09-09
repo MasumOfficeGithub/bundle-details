@@ -1,9 +1,4 @@
 
-body{
-    background-color: #ddd;
-}
-
-
 /*Pillowcase Single Block*/
 .pillowcase_thumbnail, .duvet_thumbnail, .fitted_sheet_thumbnail{
     cursor: pointer;
